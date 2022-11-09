@@ -1,10 +1,11 @@
 2020数据库实验大作业 Pymysql + tkinter（图形化界面） + pickle（本地存储账号密码）
 
-安装相关库和本地mysql直接跑应该就行了，我有时间再试试
-
-本地连接：pymysql.connect("localhost", "root", "louie0629021x", "student")
-
-华为云连接：pymysql.connect(host='139.9.119.34', port=3306, user='s2018300356',password='GaussDB@123', database='2018300356')
+# 操作说明
+## 1.可打开"添加用户.py"创建学生的账号密码和老师的账号密码。也可直接使用测试的数据。
+（测试学生1账号：2018300356 密码：2018300356
+      学生2账号：2018300357 密码：2018300357
+      教师登录账号：teacher 密码：teacher）
+## 2.打开”本地连接.py“或“GaussDB连接.py”运行。
 
 # 数据库设计
 ## 需求分析
