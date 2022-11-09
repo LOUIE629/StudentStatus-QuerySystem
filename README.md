@@ -1,4 +1,4 @@
-2020数据库实验大作业 Pymysql + tkinter（图形化界面） + pikle（本地存储账号密码）
+2020数据库实验大作业 Pymysql + tkinter（图形化界面） + pickle（本地存储账号密码）
 
 安装相关库和本地mysql直接跑应该就行了，我有时间再试试
 
