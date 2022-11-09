@@ -15,7 +15,7 @@
 
 ## 数据流图
 
-![image](https://user-images.githubusercontent.com/74084385/200895195-5f0314a4-bac7-40fe-accb-eca992a9fb04.png)
+![image](https://user-images.githubusercontent.com/74084385/200895489-d21052da-31df-4499-a911-d704bce4f641.png)
 
 ## 数据字典
 ### 1.数据处理条目
@@ -30,7 +30,7 @@
 
 ![image](https://user-images.githubusercontent.com/74084385/200895268-30d467f7-e67f-4d74-8223-b5dea5cb56b2.png)
 
-##关系模式设计
+## 关系模式设计
 学籍信息s(学号sno,姓名sname,性别gender,出生年月birth,学院college)(主键：sno)
 课程信息c(课程号cno,课程名cname,学分credit)(主键：cno)
 成绩信息sc(学号sno,课程号cno,成绩grade)(外键：sno,cno)
